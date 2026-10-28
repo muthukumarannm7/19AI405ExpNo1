@@ -27,7 +27,7 @@ Medicine prescribing agent:
   </tr>
 </table>
 
-## DESIGN STEPS</H3>
+## DESIGN STEPS
 ### STEP 1:Identifying the input:
 Temperature from patients, Location.
 ### STEP 2:Identifying the output:</h3>
